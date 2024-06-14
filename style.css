@@ -1,0 +1,18 @@
+.navbar {
+    background-color:transparent;
+    font-style: normal;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    text-align: right;
+    margin-top: 20px;
+}
+.startinglogo {
+    margin-top: 7px;
+    margin-inline-start: 3%;
+}
+.home {
+    color: #10C9C3;
+}
+
